@@ -4,6 +4,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+Before you run the project, make sure you have Node.js and npm (Node Package Manager) installed on your system.
+
+``
+To start the mock server, run: `npm run serve`. This will start a local server at 
+http://localhost:5000 to simulate a backend API.
+``
+
 ```bash
 npm run dev
 # or
